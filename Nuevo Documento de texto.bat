@@ -1,1 +1,1 @@
-mkdir nuevacaepetamia
+mkfile guarapo.txt
